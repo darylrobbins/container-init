@@ -6,9 +6,10 @@ require (
 	github.com/hashicorp/go-uuid v1.0.3
 	github.com/hashicorp/hcl/v2 v2.15.0
 	github.com/mitchellh/go-homedir v1.1.0
-	github.com/zclconf/go-cty v1.12.1
+	github.com/zclconf/go-cty v1.13.0
 	github.com/zclconf/go-cty-yaml v1.0.3
 	golang.org/x/crypto v0.0.0-20220517005047-85d78b3ac167
+	golang.org/x/text v0.3.8
 )
 
 require (
@@ -16,8 +17,7 @@ require (
 	github.com/apparentlymart/go-textseg/v13 v13.0.0 // indirect
 	github.com/google/go-cmp v0.3.1 // indirect
 	github.com/mitchellh/go-wordwrap v0.0.0-20150314170334-ad45545899c7 // indirect
-	golang.org/x/sys v0.0.0-20210615035016-665e8c7367d1 // indirect
-	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f // indirect
 )
 
 go 1.19
